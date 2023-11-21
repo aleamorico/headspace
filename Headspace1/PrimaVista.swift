@@ -25,7 +25,7 @@ struct PrimaVista: View {
             ScrollView {
                 
                 GreetingView()
-                    .padding(.trailing, 130.0)
+                    .padding(.trailing, 190.0)
                 
                 VStack{
                     
